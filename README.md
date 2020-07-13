@@ -1,6 +1,8 @@
 # Homestead-Electric-Consumption
-A ML application to forecast the electrical consumption of the city Homestead using time series analysis model,recurrent Neural Network(RNN).
+A ML Notebook to forecast the hourly electrical consumption of the city Homestead using time series analysis model,recurrent Neural Network(RNN).It uses features like max temp,min temp,humidity,rain etc.The Dataset extracted from two apis,wwo hist and  api.eia.gov.
 
-R2 Score: 0.95 on test set
+__R2 Score: 0.95__
+
+Actual vs Predicted graph
 
 ![Predicitons graph](https://github.com/ajtheb/Homestead-Electric-Consumption/raw/master/graph.PNG)
