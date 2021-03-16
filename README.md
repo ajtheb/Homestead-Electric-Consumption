@@ -3,6 +3,6 @@ A ML Notebook to forecast the hourly electrical consumption of the city Homestea
 
 __R2 Score: 0.95__
 
-Actual and Predicted vs electricity consumption graph
+Actual and Predicted vs electricity consumption graph as follows :
 
 ![Predicitons graph](https://github.com/ajtheb/Homestead-Electric-Consumption/raw/master/graph.PNG)
